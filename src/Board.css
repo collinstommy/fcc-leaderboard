@@ -1,0 +1,44 @@
+.board{
+  color: white;
+  margin-top: 30px;
+  background: linear-gradient(to right, #003C00, #20716E );
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  box-shadow: 0 6px 10px 5px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-size: 1.1em;
+}
+
+.header-row{
+  background-color: #BB7034;
+  box-shadow: 0 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.header-title{
+  background-color: #BB7034;
+}
+
+body{
+  color: white;
+}
+
+h3.ui.header{
+  color: #270000;
+}
+
+h2.ui.header{
+  color: white;
+}
+
+.top{
+    width: 100%;
+    padding: 10px 10px;
+    background: linear-gradient(to right, #003C00, #20716E );
+    color: white;
+    padding-left: 5%;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    box-shadow: 0 0px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+
